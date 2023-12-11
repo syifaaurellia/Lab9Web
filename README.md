@@ -101,25 +101,26 @@ Kelas : TI.22.A1
 ![5](https://github.com/syifaaurellia/Lab9web/assets/115867244/e5ab73df-70c2-46df-b2ca-3e5209718cf2)
 
 3. Hasil Output `home.php` :
-![6](https://github.com/syifaaurellia/Lab9web/assets/115867244/d8f6084e-6b40-48ab-b847-297dfbb96c38)
+![3](https://github.com/syifaaurellia/Lab9web/assets/115867244/1e2898a2-9754-41ca-bf8c-351de43aaf15)
 
 
-5. Hasil Output `tambah.php` :
-![7](https://github.com/syifaaurellia/Lab9web/assets/115867244/89f61653-8040-4ddd-90d5-5ec16b84f007)
+4. Hasil Output `tambah.php` :
 
-![8](https://github.com/syifaaurellia/Lab9web/assets/115867244/42852b64-79a3-494a-8821-fa9af5b2cb36)
+![6](https://github.com/syifaaurellia/Lab9web/assets/115867244/75f08040-30a2-4a1e-8843-76029fe7aa31)
 
-![9](https://github.com/syifaaurellia/Lab9web/assets/115867244/4e55275c-64b0-4c97-897a-b7574001192a)
+![7](https://github.com/syifaaurellia/Lab9web/assets/115867244/c7f8d218-a909-4fb3-b9f2-f1b4f92ef971)
 
 
-5. Hasil Output `ubah.php` :
-![10](https://github.com/syifaaurellia/Lab9web/assets/115867244/83bcc535-d0a7-49d2-9359-a3238f064422)
 
-![11](https://github.com/syifaaurellia/Lab9web/assets/115867244/314c7252-589b-4421-8f99-45fdc60e6b1b)
+6. Hasil Output `ubah.php` :
+![8](https://github.com/syifaaurellia/Lab9web/assets/115867244/feaea5d0-85fd-4ffb-b4c3-617f9897a4c3)
+
+![9](https://github.com/syifaaurellia/Lab9web/assets/115867244/303af2d3-f3ba-48e3-9953-6a65f3cb037e)
 
 
 6. Hasil Output `hapus.php` :
-![12](https://github.com/syifaaurellia/Lab9web/assets/115867244/dd7dca65-ff32-40d5-a53a-1f5460a6a4b3)
+![10](https://github.com/syifaaurellia/Lab9web/assets/115867244/84e96c19-5bb7-4b2c-afad-e35056c84fe7)
+
 
 
 ## Finish, Terima Kasih
